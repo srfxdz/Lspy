@@ -8,7 +8,7 @@ import os
 from keep_alive import keep_alive
 keep_alive()
 # insert your Telegram bot tokSasen here
-bot = telebot.TeleBot('7633571063:AAHmeRGvRXJMdMzgOux36xF7FkE9ngMmbYs')
+bot = telebot.TeleBot('7633571063:AAHIYn3-gJ-kpjgsHmokaknbTIgpvUC2He4')
 
 # Admin user IDs
 admin_id = ["7879803379"]
